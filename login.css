@@ -56,7 +56,7 @@ input{
     font-size: min(5vw, 5vh);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
     color: white;
-    background-color: rgba(0, 0, 0, 0.162);
+    background-color: rgba(161, 160, 255, 0.150);
 }
 
 button{
